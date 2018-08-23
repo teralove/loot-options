@@ -1,5 +1,5 @@
 # loot-options
-Chat commands to change loot options.
+Commands to change loot options.
 
 ## Commands
 ### `loots roll'
