@@ -2,13 +2,13 @@
 Commands to change loot options.
 
 ## Commands
-### `loots roll'
+### `loots roll`
 - Round robin with rolling (Default)
 
-### `loots random'
+### `loots random`
 - Round robin with random distribution
 
-### `loots ffa'
+### `loots ffa`
 - Free-for-All
 
 ## Info
